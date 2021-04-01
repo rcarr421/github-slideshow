@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    Mountain Standard Time
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 # baseurl:     "/github-slideshow"
@@ -10,7 +10,7 @@ lsi:         false
 permalink:   "/:title"
 
 kramdown:
-  ## for german: "sbquo,lsquo,bdquo,ldquo"
+  ## for english: "sbquo,lsquo,bdquo,ldquo"
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 plugins:
